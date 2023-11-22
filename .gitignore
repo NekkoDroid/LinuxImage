@@ -1,0 +1,12 @@
+# Local configuration for mkosi
+/mkosi.local.conf
+
+# Build version of the image
+/mkosi.version
+
+# Root password for the image
+/mkosi.rootpw
+
+# SecureBoot stuff for the image
+/mkosi.key
+/mkosi.crt
